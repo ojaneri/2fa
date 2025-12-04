@@ -1,0 +1,13 @@
+🚀 Novo! Gerador 2FA Gratuito e Seguro! 🔐
+
+A partir de 03/11/2025, os tribunais brasileiros exigem autenticação de dois fatores (2FA) para acesso aos sistemas judiciais. Não fique para trás! 💼⚖️
+
+Apresentamos o Gerador 2FA do KAP - totalmente client-side, sem salvar nada no servidor. Gere tokens TOTP, leia QR codes e tenha controle total da sua segurança. 📱🛡️
+
+Funciona offline após carregado, compatível com RFC 6238, e com tour guiado para facilitar o uso. Ideal para advogados e peritos! 👨‍⚖️👩‍⚖️
+
+Acesse agora: kaponline.com.br/2fa
+
+Conheça o KAP - Laboratório de Provas Digitais: kaponline.com.br/lp1/
+
+#2FA #SegurancaDigital #Tribunais #Advogados #Peritos #Autenticacao #KAP #ProvasDigitais #TecnologiaJurídica #Criptografia
